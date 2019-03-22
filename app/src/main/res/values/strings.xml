@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string-array name="converter_options">
+        <item>Grau Celsius</item>
+        <item>Grau Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
